@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Shinge</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">UI/UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adihargane&label=Profile%20views&color=0e75b6&style=flat" alt="adihargane" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Machine learning projects**
-
+<!-- - 👯 I’m looking to collaborate on **Machine learning projects**
+ -->
 - 👨‍💻 All of my projects are available at [https://github.com/adihargane](https://github.com/adihargane)
 
-- 📫 How to reach me **adihargane1@gmail.com**
+- 📫 How to reach me **shingeutkarsh3919@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
