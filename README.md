@@ -11,7 +11,7 @@
 
 <!-- - 👯 I’m looking to collaborate on **Machine learning projects**
  -->
-- 👨‍💻 All of my projects are available at [https://github.com/adihargane](https://github.com/adihargane)
+- 👨‍💻 All of my projects are available at [https://github.com/Utkarsh-Shinge](https://github.com/Utkarsh-Shinge)
 
 - 📫 How to reach me **shingeutkarsh3919@gmail.com**
 
